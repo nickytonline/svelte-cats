@@ -1,6 +1,10 @@
-# Svelte + Vite
+# Svelte Cats!
 
-This template should help get you started developing with Svelte in Vite.
+A fun project I built with [Brittney Postma](https://github.com/brittneypostma) during one of [my Twitch streams](https://livecoding.ca). It uses Svelte and the [Cat as a Service](https://cataas.com/#/) API.
+
+<a href="https://www.youtube.com/watch?v=g4AG5LR73uU">
+  <img alt="YouTube Thumbnail for Starting with Svelte with Brittney Postma" src="https://i4.ytimg.com/vi/g4AG5LR73uU/hqdefault.jpg" width="480" height="360" />
+</a>
 
 ## Recommended IDE Setup
 
